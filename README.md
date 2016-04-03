@@ -2,6 +2,7 @@
 FlexCCT: Software for Continous Cultural Consensus Theory
 
 The GITHub repository contains three files.
+
 i) FlexCCTv2.0PCInstaller.exe - Contains the software installer for PC.
 Compatible with Windows versions 7SP1, 8, 8.1, 10, Server 2008SP2, Server 2008R2SP1, Server 2012
 
